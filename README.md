@@ -1,5 +1,7 @@
 #How to run the API
 
+Execute the `CarkparkApplication` using IntelliJ IDE or
+
 Just go inside the root of the project `cd ./carpark` and execute the following command
 
 ````
